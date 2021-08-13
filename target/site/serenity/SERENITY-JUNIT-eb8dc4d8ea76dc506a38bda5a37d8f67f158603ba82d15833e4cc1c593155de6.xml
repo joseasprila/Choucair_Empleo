@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="Ingresar al portal de empleo choucair" skipped="0" tests="1" time="5.87" timestamp="2021-08-12 05:22:34"><testcase name="Validar que el sistema perimita ingresar al portal de empleo choucairtestin"><error message="Could not instantiate class org.openqa.selenium.chrome.ChromeDriver" type="net.thucydides.core.webdriver.DriverConfigurationError">Could not instantiate class org.openqa.selenium.chrome.ChromeDriver</error><system-err>Could not instantiate class org.openqa.selenium.chrome.ChromeDriver&#13;
+stepdefinitions.EjemploChoucairSteps2.queElUsuarioIngresaALaSesionDeEmpleoChoucair(EjemploChoucairSteps2.java:25)&#13;
+cucumber.runner.Runner.runPickle(Runner.java:80)&#13;
+</system-err></testcase></testsuite>
